@@ -41,8 +41,8 @@ public class ExcelToJson {
                 //sheet.getCell(列，行);
                 cell1 = sheet.getCell(0 , i);
                 cell2 = sheet.getCell(1 , i);
-                cell3 = sheet.getCell(2 , i);
                 cell4 = sheet.getCell(3 , i);
+                cell3 = sheet.getCell(2 , i);
                 cell5 = sheet.getCell(4 , i);
                 cell6 = sheet.getCell(5 , i);
                 cell7 = sheet.getCell(6 , i);
